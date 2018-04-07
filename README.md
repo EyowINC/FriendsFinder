@@ -1,2 +1,1 @@
-# FriendsFinder
-Building a friendFinder App.
+Building a friend Finder App.
